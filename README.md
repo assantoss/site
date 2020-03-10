@@ -1,5 +1,5 @@
 # site
-Site de Teste
+Aplicação de Teste
 1. Criação de VPC, subnets, IGW, Security Groups e ACLS
 1. Site estático com conteúdo hospedado em um bucket na AWS.
 2. Utilização do Route 53, CloudFormation e CloudFront
