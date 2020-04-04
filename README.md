@@ -1,5 +1,5 @@
 # site
-Testing aplication
+>> Testing aplication
 1. Create VPC, subnets, IGW, Security Groups and ACLs
 2. Static site with content in bucket S3
 3. Utilization of Route53, cloudformation and cloudfront
